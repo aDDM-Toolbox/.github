@@ -6,13 +6,13 @@ The project is developed and maintained by the [Rangel Neuroeconomics](https://w
 
 ## Contribution guidelines
 
-To contribute to any of the toolboxes please go to the repo for the toolbox you'd like to make a contribution and fork it. Below is an example of how to contribute to `aDDM-Julia` toolbox.
+To contribute to any of the toolboxes please go to the repo for the toolbox you'd like to make a contribution and fork it. Below is an example of how to contribute to `ADDM.jl` toolbox.
 
 **On Github**
 
-1. Fork `aDDM-Toolbox/addm-Julia`
+1. Fork `aDDM-Toolbox/ADDM.jl`
 
-<img width="1657" alt="Screenshot 2023-09-11 at 3 44 57 PM" src="https://github.com/aDDM-Toolbox/.github/assets/8344019/5e56f0ef-d12b-40e6-9f00-4b1535c050a3">
+<img width="1378" alt="Screenshot 2023-09-11 at 6 05 36 PM" src="https://github.com/aDDM-Toolbox/.github/assets/8344019/66292bf5-3910-4451-9b0a-73b0964e4e8b">
 
 **On your machine**
 
@@ -20,30 +20,30 @@ To contribute to any of the toolboxes please go to the repo for the toolbox you'
 
 - HTTPS
 ```
-git clone https://github.com/<YOUR_USERNAME>/aDDM-Julia.git
+git clone https://github.com/<YOUR_USERNAME>/ADDM.jl.git
 ```
 
 - SSH  
 ```
-git clone git@github.com:<YOUR_USERNAME>/aDDM-Julia.git
+git clone git@github.com:<YOUR_USERNAME>/ADDM.jl.git
 ```
 
 3. Navigate into your cloned repo
 
 ```
-cd aDDM-Julia
+cd ADDM.jl
 ```
 
 4. Add upstream to your cloned repo. This way you can pull changes from the organization and send PRs back.
 
 - HTTPS
 ```
-git remote add upstream https://github.com/aDDM-Toolbox/aDDM-Julia.git
+git remote add upstream https://github.com/aDDM-Toolbox/ADDM.jl.git
 ```
 
 - SSH
 ```
-git remote add upstream git+ssh://git@github.com:aDDM-Toolbox/aDDM-Julia.git
+git remote add upstream git+ssh://git@github.com:aDDM-Toolbox/ADDM.jl.git
 ```
 
 Check your remotes are set up correctly
@@ -56,18 +56,18 @@ should return
 
 - HTTP
 ```
-origin  https://github.com/<YOUR_USERNAME>/aDDM-Julia.git (fetch)
-origin  https://github.com/<YOUR_USERNAME>/aDDM-Julia.git (push)
-upstream        https://github.com/aDDM-Toolbox/aDDM-Julia.git (fetch)
-upstream        https://github.com/aDDM-Toolbox/aDDM-Julia.git (push)
+origin  https://github.com/<YOUR_USERNAME>/ADDM.jl.git (fetch)
+origin  https://github.com/<YOUR_USERNAME>/ADDM.jl.git (push)
+upstream        https://github.com/aDDM-Toolbox/ADDM.jl.git (fetch)
+upstream        https://github.com/aDDM-Toolbox/ADDM.jl.git (push)
 ```
 
 - SSH
 ```
-origin  git+ssh://git@github.com:<YOUR_USERNAME>/aDDM-Julia.git (fetch)
-origin  git+ssh://git@github.com:<YOUR_USERNAME>/aDDM-Julia.git (push)
-upstream        git+ssh://git@github.com:aDDM-Toolbox/aDDM-Julia.git (fetch)
-upstream        git+ssh://git@github.com:aDDM-Toolbox/aDDM-Julia.git (push)
+origin  git+ssh://git@github.com:<YOUR_USERNAME>/ADDM.jl.git (fetch)
+origin  git+ssh://git@github.com:<YOUR_USERNAME>/ADDM.jl.git (push)
+upstream        git+ssh://git@github.com:aDDM-Toolbox/ADDM.jl.git (fetch)
+upstream        git+ssh://git@github.com:aDDM-Toolbox/ADDM.jl.git (push)
 ```
 
 
