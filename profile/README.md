@@ -43,7 +43,7 @@ git remote add upstream https://github.com/aDDM-Toolbox/ADDM.jl.git
 
 - SSH
 ```
-git remote add upstream git+ssh://git@github.com:aDDM-Toolbox/ADDM.jl.git
+git remote add upstream git@github.com:aDDM-Toolbox/ADDM.jl.git
 ```
 
 Check your remotes are set up correctly
@@ -64,10 +64,10 @@ upstream        https://github.com/aDDM-Toolbox/ADDM.jl.git (push)
 
 - SSH
 ```
-origin  git+ssh://git@github.com:<YOUR_USERNAME>/ADDM.jl.git (fetch)
-origin  git+ssh://git@github.com:<YOUR_USERNAME>/ADDM.jl.git (push)
-upstream        git+ssh://git@github.com:aDDM-Toolbox/ADDM.jl.git (fetch)
-upstream        git+ssh://git@github.com:aDDM-Toolbox/ADDM.jl.git (push)
+origin  git@github.com:<YOUR_USERNAME>/ADDM.jl.git (fetch)
+origin  git@github.com:<YOUR_USERNAME>/ADDM.jl.git (push)
+upstream        git@github.com:aDDM-Toolbox/ADDM.jl.git (fetch)
+upstream        git@github.com:aDDM-Toolbox/ADDM.jl.git (push)
 ```
 
 
