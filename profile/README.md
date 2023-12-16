@@ -4,6 +4,10 @@ This organization provides toolboxes to fit the attentional drift diffusion mode
 
 The project is developed and maintained by the [Rangel Neuroeconomics Lab](https://www.rnl.caltech.edu/index.html) at [Caltech](https://www.caltech.edu/).
 
+## Documentation
+
+The toolboxes are offered in multiple languages. To visit the documentation for the version you're interested in visit https://addm-toolbox.github.io/.
+
 ## Contribution guidelines
 
 To contribute to any of the toolboxes please go to the repo for the toolbox you'd like to make a contribution and fork it. Below is an example of how to contribute to the `ADDM.jl` toolbox.
