@@ -6,7 +6,7 @@ The project is developed and maintained by the [Rangel Neuroeconomics Lab](https
 
 ## Documentation
 
-The toolboxes are offered in multiple languages. To visit the documentation for the version you're interested in visit https://addm-toolbox.github.io/.
+The toolboxes are offered in multiple languages (Julia, C++ and CUDA). You can find usage examples and tutorials for the toolbox version you're interested in at https://addm-toolbox.github.io/.
 
 ## Contribution guidelines
 
